@@ -1,0 +1,7 @@
+.receta{
+    background: #fdfdfd;
+    display: flex;
+    flex-direction: column;
+    margin: 0 5rem 5rem 0;    
+    width: calc(25% - 5rem);
+}
