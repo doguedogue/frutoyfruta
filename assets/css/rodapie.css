@@ -2,5 +2,18 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 5rem 2rem 0 2rem;
+    
+}
+
+@media screen and (min-width: 0) {
+    .rodapie{
+        padding: 3rem 1rem 0 1rem;
+    }
+}
+
+
+@media screen and (min-width: 768px) {
+    .rodapie{
+        padding: 5rem 2rem 0 2rem;
+    }
 }
